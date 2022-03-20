@@ -16,13 +16,13 @@ public class MakeCsv {
 
     private static void init(){
         groups.put(1,"KJH");
-        groups.put(2,"KJH");
-        groups.put(3,"KJH");
-        groups.put(4,"KJH");
-        groups.put(5,"KJH");
-        groups.put(6,"KJH");
-        groups.put(7,"KJH");
-        groups.put(8,"KJH");
+        groups.put(2,"MNC");
+        groups.put(3,"AQE");
+        groups.put(4,"NTR");
+        groups.put(5,"PLK");
+        groups.put(6,"MNA");
+        groups.put(7,"IU9");
+        groups.put(8,"NTA");
 
     }
     
